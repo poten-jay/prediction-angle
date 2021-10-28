@@ -16,6 +16,9 @@
 
 
 ---
+### 작업 노트
+
+---
 
 21/10/26
 데이터 - 합성 이미지 11,948
@@ -32,6 +35,6 @@ https://yuhodots.github.io/deeplearning/21-04-04/
 
 참고사이트
 
-기울기 보정 알고리즘 
+기울기 보정 알고리즘  
 https://ichi.pro/ko/opencvleul-sayonghayeo-tegseuteu-imijileul-jadong-eulo-giulgi-bojeong-ttogbalo-haneun-bangbeob-176759562404831
 

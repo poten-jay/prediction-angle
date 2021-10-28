@@ -23,6 +23,9 @@
 21/10/26
 데이터 - 합성 이미지 11,948
 
+data 링크  
+https://drive.google.com/file/d/1Byk5fABsGdYWlSuKzXwieQO_4KP0Uk_t/view?usp=sharing
+
 ---
 
 21/10/27

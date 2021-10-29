@@ -41,3 +41,13 @@ https://yuhodots.github.io/deeplearning/21-04-04/
 기울기 보정 알고리즘  
 https://ichi.pro/ko/opencvleul-sayonghayeo-tegseuteu-imijileul-jadong-eulo-giulgi-bojeong-ttogbalo-haneun-bangbeob-176759562404831
 
+---
+
+21/10/29
+
+[기울기 보정 알고리즘] 사이트 기본 정리
+
+---
+
+
+

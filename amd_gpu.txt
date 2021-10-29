@@ -1,0 +1,56 @@
+adn gou 사용법
+
+https://mgyo.tistory.com/29
+
+---
+1. conda create -n lomin python=3.7
+
+2. activate
+
+3. pip install tensorflow==1.15.5
+
+4. conda install jupyter
+
+5. conda install ipykernel
+
+6. python -m ipykernel install --user --name lomin 
+
+7. pip install tensorflow-directml
+
+8. 파이썬
+
+9. import tensorflow as tensorflow
+
+10. tf.test.is_gpu_available()
+
+11. conda uninstall pyzmq
+
+12. conda install pyzmq==19.0.2
+
+13. from tensorflow.python.client import device_lib
+    device_lib.list_local_devices()  (gpu 사용 가능 여부 확인)
+
+
+https://mgyo.tistory.com/30?category=874963
+
+
+1. pip install keras==2.2.2
+
+2. pip install plaidml-keras plaidbench
+
+    이후
+
+   plaidml-setup     <- 명령어 실행
+
+    질문 : y
+
+    내 gpu 번호 선택 (1, 2) : 2
+
+    질문 : y
+
+    save : y
+
+3. 파이썬에서 tesorflow, keras import 하기전에 아래 코드 먼저 실행
+
+   import plaidml.keras
+   plaidml.keras.install_backend()

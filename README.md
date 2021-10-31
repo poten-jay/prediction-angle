@@ -86,6 +86,23 @@ https://ansan-survivor.tistory.com/954
  글 인식에는 글의 외곡, 회전, 기울기 등을 학습 해야 함. (한 영 숫자 기호)
  글의 외곡을 복구하는 방법 필요
 
+---
+
+21/10/31
+
+원근법 이미지
+https://opencv-python.readthedocs.io/en/latest/doc/10.imageTransformation/imageTransformation.html
+
+아이디어 노트
+
+접혀진 종이 글씨 또는 접혀진 꼮지점을 인식 - 원근법을 인식해 비율에 따라 복구(정해진 크기가 있음)
+
+각 부분별로 원근법을 통해 복구된 이미지들을 붙임 - 하나의 이미지로 합침
+
+이후 글 인식
+
+or 글 박스를 인식 - 원근법 복원을 통해 각 부분 동일 크기로 맞춤
+
 
 
 

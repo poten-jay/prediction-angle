@@ -134,6 +134,15 @@ https://d4nst.github.io/2017/01/12/image-orientation/
 https://github.com/d4nst/RotNet
 
 
+---
+
+21/11/02
+
+이미지 테두리 저장, 회전, 바운딩 박스 처리
+
+---
+
+
 
 
 

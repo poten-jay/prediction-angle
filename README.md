@@ -14,6 +14,18 @@
 
        (val : 99% , test 95%)
 
+   2) 문서를 정방향으로 맞추기 위한 각도 (0~360)
+      - 해당 각도로 회전된 문서
+
+       학습시 회전 시켜서 학습해야함. (pdf)
+
+       Easy ? 문서 자체 왜곡 없는  
+       hard ? 왜곡 (구겨지거나 접힌 이미지)
+
+       imgaug, albumentation 라이브러리 사용
+
+       이미지를 구기거나 찌그려 뜨리는 부분을 만들어서 학습해도 됨.
+
 
 ---
 ### 작업 노트 
@@ -51,21 +63,21 @@ https://ichi.pro/ko/opencvleul-sayonghayeo-tegseuteu-imijileul-jadong-eulo-giulg
 
 21/10/30
 
-숫자 회전각 학습
+숫자 회전각 학습  
 https://kr.mathworks.com/help/deeplearning/ug/train-a-convolutional-neural-network-for-regression.html
 
 
-글 회전각 좌표
+글 회전각 좌표  
 https://lee-mandu.tistory.com/520?category=838684
 
-회전 각에 대한 빈영역 구현
+회전 각에 대한 빈영역 구현  
 https://blog.nerdfactory.ai/2020/09/10/image-augmentation-for-object-detection.html
 
 
 https://zephyrnet.com/ko/%EB%94%A5-%EB%9F%AC%EB%8B%9D%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%9E%90%EB%8F%99-%ED%9A%8C%EC%A0%84/
 
 
-파이썬 이미지 회전 각도 조절
+파이썬 이미지 회전 각도 조절  
 https://ansan-survivor.tistory.com/954
 
 
@@ -90,7 +102,7 @@ https://ansan-survivor.tistory.com/954
 
 21/10/31
 
-원근법 이미지
+원근법 이미지  
 https://opencv-python.readthedocs.io/en/latest/doc/10.imageTransformation/imageTransformation.html
 
 아이디어 노트
@@ -103,8 +115,23 @@ https://opencv-python.readthedocs.io/en/latest/doc/10.imageTransformation/imageT
 
 or 글 박스를 인식 - 원근법 복원을 통해 각 부분 동일 크기로 맞춤
 
+---
+
+21/11/01
 
 
+이미지 리사이징, 이동, 회전, 원근  
+https://blog.naver.com/samsjang/220504966397
+
+테서렉트 사용 이미지 각도 예측  
+https://ichi.pro/ko/ocreul-wihan-hoejeon-jeonghwagdo-choejeoghwa-68678004591838
+
+이미지 회전 각도 예측  
+https://d4nst.github.io/2017/01/12/image-orientation/
+
+
+이미지 회전 깃 헙  
+https://github.com/d4nst/RotNet
 
 
 

@@ -149,6 +149,28 @@ https://github.com/d4nst/RotNet
 바운딩 박스 및 라벨리 설정해야함
 
 
+이미지 축소  
+https://qzqz.tistory.com/653
+
+
+---
+
+21/11/04
+
+이미지 학습에 관해 (cnn, rcnn, fast cnn 등)  
+https://velog.io/@qksekf/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%A0%81%EC%9A%A9-Segmentation-Object-Recognition
+
+Rbox-CNN Rotated Bounding Box 논문 리뷰  
+https://junha1125.tistory.com/21
+
+이미지 기하학적 변형  
+https://opencv-python.readthedocs.io/en/latest/doc/10.imageTransformation/imageTransformation.html
+
+라벨링 git   (lableImg)
+https://github.com/tzutalin/labelImg
+
+ - 설치 : pip install labelImg
+ - 실행 : labelImg
 
 
 

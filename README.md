@@ -2,6 +2,8 @@
 ---
 ## Goal
 
+<  git config --global core.autocrlf true  >
+
  - 문서 이미지의 주요값 인식
 
     1) 딥러닝 네트워크를 활용하여 문서 이미지 회전 각도를 예측하는 모델 학습

@@ -168,7 +168,7 @@ https://junha1125.tistory.com/21
 이미지 기하학적 변형  
 https://opencv-python.readthedocs.io/en/latest/doc/10.imageTransformation/imageTransformation.html
 
-라벨링 git   (lableImg)
+라벨링 git   (lableImg)  
 https://github.com/tzutalin/labelImg
 
  - 설치 : pip install labelImg
@@ -194,6 +194,11 @@ https://github.com/tzutalin/labelImg
 
 이미지 배경 추가 후 1도마다 150장씩 추가 = > Wall time: 1h 56s
 
-이미지 회전 (annotation 과 함께) => Wall time: 
+이미지 회전 (annotation 과 함께) => Wall time: 1h 20min 25s
+
+xml 값 가져오기  
+https://lee-mandu.tistory.com/519?category=838684
+
+
 
 

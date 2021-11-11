@@ -183,10 +183,17 @@ https://github.com/tzutalin/labelImg
 
 이미지 회전 (annotation 과 함께) => Wall time: 2h 30m 24s
 
-
 이미지 학습시 :
    - 왜곡 (접힘, 휨, 구겨짐 등)
    - 그림자 (책은 안쪽, 손 or 폰 그림자, 그라데이션 그림자)
    - 밝기, 노이즈 등
+
+---
+
+21/11/11
+
+이미지 배경 추가 후 1도마다 150장씩 추가 = > Wall time: 1h 56s
+
+이미지 회전 (annotation 과 함께) => Wall time: 
 
 

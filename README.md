@@ -199,6 +199,14 @@ https://github.com/tzutalin/labelImg
 xml 값 가져오기  
 https://lee-mandu.tistory.com/519?category=838684
 
+---
 
+21/11/13
 
+xml 수정 코드 완
 
+ - 모든 이미지 resize 추가 코드 알아보기...
+
+ - 기본 이미지들로 모델 생성하기
+
+ ---

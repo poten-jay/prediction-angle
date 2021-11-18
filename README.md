@@ -210,3 +210,35 @@ xml 수정 코드 완
  - 기본 이미지들로 모델 생성하기
 
  ---
+
+21/11/16
+
+이미지 회전 - 바운딩 박스 - 크롭
+
+df_train : 17분
+df_test : 34 초
+
+train -> train_angle : 3시간
+train_angle -> train_angle_ro : 3시간
+
+val -> val_angle : 10분
+val_angle -> val_angle_ro : 10분
+
+df_train : 17분 (108,000 개)
+df_val : 34초 (7200 개)
+
+train_angle_ro , val_angle_ro 폴더 내 png, xml 파일 하나의 폴더로 통합하기
+train : 18 분
+val : 1 분
+
+폴더를 만들고 박스에 맞춰 이미지 resize 후 폴더에 저장
+train :  28000개 28분 /
+val :  분
+
+학습 - 에폭 50
+10시간 30분
+
+
+모델 학습 학습
+
+---

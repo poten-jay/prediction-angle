@@ -57,6 +57,26 @@ https://ichi.pro/ko/opencvleul-sayonghayeo-tegseuteu-imijileul-jadong-eulo-giulg
 
 ---
 
+21/10/28
+
+https://ichi.pro/ko/opencvleul-sayonghayeo-tegseuteu-imijileul-jadong-eulo-giulgi-bojeong-ttogbalo-haneun-bangbeob-176759562404831
+
+opencv 통한 회전각 예측 - 가능
+[ project_3_/기울기 보정.ipynb ]
+
+25도 기울인 사진 => 24.883 도 예측
+
+글 블러 - 흑백 - 줄글 인식 - 묶음 박스처리
+ -> 가장 큰 사각형 인식 
+ -> 수평 맞춤
+(-45 ~ 45 도 사이)
+
+=> OCR 기능 강화 및 0, 90, 180, 270 도 회전 (4번 추가) => 정방향 가능
+
+=> 딥러닝 없이 가능..
+
+---
+
 21/10/29
 
 [기울기 보정 알고리즘] 사이트 기본 정리
